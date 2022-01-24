@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+A highly motivated and hardworking Sri Lankan undergraduate student studying software engineering. I am skilled in graphic design and have prior experience in software engineering.
+📫 How to reach me chamodhasanka99@gmail.com
+
 <!--
 **Pasindurathnayaka/PasinduRathnayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
